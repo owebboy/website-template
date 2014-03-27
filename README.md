@@ -1,4 +1,2 @@
 # Oliver Pope's Website Template!
-***
-
-A template for creating websites
+_A template for creating websites_
